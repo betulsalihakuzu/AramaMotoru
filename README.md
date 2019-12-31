@@ -1,0 +1,4 @@
+# AramaMotoru
+172114009 BetulSalihaKUZU
+172114015 Derya USTA
+172114208 Seda DEMİR 
