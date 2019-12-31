@@ -1,0 +1,10 @@
+﻿  AramaMotoru.cpp
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(46,20): warning C4018: '<=': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(50,12): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(119,20): warning C4018: '<=': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(123,12): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(191,20): warning C4018: '<=': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(195,12): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(261,20): warning C4018: '<=': imzalı/imzasız uyuşmazlığı
+C:\Users\user\Desktop\Arama Motoru\AramaMotoru\AramaMotoru\AramaMotoru.cpp(265,12): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  AramaMotoru.vcxproj -> C:\Users\user\Desktop\Arama Motoru\AramaMotoru\Debug\AramaMotoru.exe
